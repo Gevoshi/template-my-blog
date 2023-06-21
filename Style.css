@@ -1,0 +1,191 @@
+body {
+    background-color: rgb(236, 236, 236);
+    margin: 0 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center; 
+    font-family: Raleway; 
+    font-weight:500;
+    font-size: 36px;
+}
+.entavernagir {
+    font-size: 16px; 
+    font-weight: normal;
+    text-align: center;
+            }
+.blackbackgroundent {
+    font-size: 16px; 
+    font-weight: normal; 
+    color:white; 
+    background-color: black;
+    padding: 3px 8px ;
+                } 
+.titledescription {
+    font-size: 21px;
+}
+.silver {
+    color:whitesmoke
+}
+.mainDiv {
+    display:flex
+}
+.divDzakhBlok{
+width: calc(66.66% - 10px);
+}
+.divAjBlok{
+width: calc(33.33% - 10px);
+}
+.titleHeading {
+    box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    margin: 70px 35px 35px 12px;
+}
+.titleheadingDiv {
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.nkar1 {
+    width: 100%;
+} 
+.readMore {
+    padding: 15px 20px;
+    background-color: white;  
+    border: 1px ridge silver;  
+}
+.readMore:hover {
+    background-color: silver;
+}
+.comments1 {
+    position: relative;
+    left: 450px;
+    bottom: 50px;
+    max-width: 300px;
+}
+.blogentry {
+    background-color: white;
+    box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    margin: 0px 35px 35px 12px;
+}
+.blogEntryDiv {
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.nkar2 {
+    width: 100%;
+}
+.comments2 {
+    position: relative;
+    left: 450px;
+    bottom: 50px;
+    max-width: 300px;
+}
+.myname {
+    background-color: white;
+    box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    margin: 70px 35px 35px 12px;
+    width: 90%;
+}
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.myNameDiv {
+    padding: 10px;
+}
+.nkar3 {
+    width: 100%;
+}
+.popularPostsDiv {
+    box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    width: 90%;
+    margin: 70px 35px 35px 12px;
+}
+.popularposts {
+    background-color: rgb(236, 236, 236);
+    padding: 1px 12px;
+}
+.popularPostsVernagir {
+    font-weight: 100;
+    font-size: 20px;
+}
+.nkar4 {
+    width: 50px;
+}
+.nkar4Div {
+    padding: 14px;
+}
+.lorem {
+    padding: 22px 0px;
+}
+.togher {
+    background-color: white;
+    border-bottom: 5px ridge silver;
+    display:flex;
+}
+.togher:hover {
+    background-color: silver;
+}
+.verjinTogh {
+    background-color: white;
+    display:flex;
+}
+.verjinTogh:hover {
+    background-color: silver;
+}
+.tagsDiv {
+    box-shadow:0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    width: 90%;
+    margin: 70px 35px 35px 12px;
+}
+.tags {
+    background-color: rgb(236, 236, 236);
+}
+.blackbackground {
+    color:white; 
+    background-color: black;
+    padding: 2px 8px;
+}
+.whiteBackground {
+    background-color: white;
+    padding: 15px 15px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.silverBackground {
+    background-color:rgb(236, 236, 236) ;
+    padding: 2px 8px;
+    display: block;
+    margin: 10px 5px ; 
+}
+.blackbackgroundTravel {
+    background-color: black;
+    color: white;
+    padding: 2px 8px;
+    height: 20px;
+    margin-top: 8px;
+}
+.footerDiv {
+    background-color: #616161;
+    height: 200px;
+    width: 100%;
+}
+.buttonBlack1 {
+    background-color: black;
+    color:white;
+    padding: 15px 20px;
+    margin: 30px 0px 0px 15px;
+}
+.buttonBlack1:hover {
+    background-color: silver;
+    color: black;
+    border: 0px;
+}
+.powered {
+    color:white;
+    margin-left:15px ;
+}
+.w3Link {
+    color: white;
+}
